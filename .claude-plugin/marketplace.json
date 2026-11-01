@@ -1,0 +1,16 @@
+{
+  "name": "plugin-privacy",
+  "owner": {
+    "name": "ADRenaline Suite"
+  },
+  "plugins": [
+    {
+      "name": "plugin-privacy",
+      "source": "./",
+      "description": "Record of a processing activity: categories, purpose, roles, and retention. It does not choose a legal basis."
+    }
+  ],
+  "metadata": {
+    "description": "Marketplace with the Privacy plugin."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "plugin-privacy",
+  "displayName": "Privacy",
+  "description": "Record of a processing activity: categories, purpose, roles, and retention. It does not choose a legal basis.",
+  "version": "0.0.1",
+  "author": {
+    "name": "d-mente"
+  },
+  "license": "MIT",
+  "keywords": [
+    "privacy",
+    "processing-record",
+    "retention"
+  ],
+  "repository": "https://github.com/ADRenaline-Suite/plugin-privacy"
+}

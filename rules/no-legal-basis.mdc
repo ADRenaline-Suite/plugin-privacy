@@ -1,0 +1,14 @@
+---
+description: The record describes the processing. It does not pick a legal basis. The technical control stays in security.
+alwaysApply: true
+---
+
+# No legal basis
+
+ISO/IEC 29100:2024 names the privacy principles and the actors. NIST Privacy Framework 1.0 (16 January 2020) is the map of functions. Draft 1.1 is not cited.
+
+The record is granular: one activity, its categories, its purpose, who decides, who processes, how long it is kept. A generic list with no link between those facts is not a record. The UK ICO's documentation guidance is the shape teams already use for this, and it matches 29100's actors. It is not a choice of law.
+
+Do not choose a legal basis. Do not invent a category of person. Do not write an identifier that singles a person out; an aggregate figure is the fact. Resident data is written when the person said the activity is about residents. A product name that happens to say 'resident' is not that statement.
+
+The technical control (encryption, access) is a `plugin-security` requirement. Cite it. Do not copy it.
